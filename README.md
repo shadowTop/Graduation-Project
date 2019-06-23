@@ -20,9 +20,9 @@
 
 #### 前端
 
-1. Vue 全家桶
+1. Vue 全家桶(Vue + VueRouter + Vuex + 一些 Vue 组件)
 2. Element UI
-3. 预处理器: Stylus、Pug
+3. 预处理器: Stylus、Pug、Babel
 4. Echarts
 
 
@@ -31,7 +31,7 @@
 
 1. Koa2
 2. 监控: fundebug
-3. 日志: Log4
+3. 日志: Log4js
 4. 定时器: node-schedule
 
 
@@ -78,6 +78,18 @@ MQTT: Promise + MQTT 通信框架
 #### 安全
 
 加密算法: Bcrypt + 二次加盐
+
+通信: JWT
+
+
+
+#### 其他
+
+语音识别: 讯飞SDK
+
+代码规范: ESLint
+
+时间处理: moment
 
 
 
